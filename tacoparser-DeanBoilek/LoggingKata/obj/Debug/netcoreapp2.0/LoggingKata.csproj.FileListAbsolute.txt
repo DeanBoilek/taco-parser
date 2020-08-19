@@ -1,0 +1,13 @@
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\bin\Debug\netcoreapp2.0\TacoBell-US-AL.csv
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\bin\Debug\netcoreapp2.0\LoggingKata.deps.json
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\bin\Debug\netcoreapp2.0\LoggingKata.runtimeconfig.json
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\bin\Debug\netcoreapp2.0\LoggingKata.runtimeconfig.dev.json
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\bin\Debug\netcoreapp2.0\LoggingKata.dll
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\bin\Debug\netcoreapp2.0\LoggingKata.pdb
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.csprojAssemblyReference.cache
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.AssemblyInfoInputs.cache
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.AssemblyInfo.cs
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.dll
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.pdb
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.csproj.CoreCompileInputs.cache
+C:\Users\Deanb\OneDrive\Desktop\TacoBellProject\tacoparser-DeanBoilek\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.genruntimeconfig.cache

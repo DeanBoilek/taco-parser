@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "FbZZO1l/ALf7Z/u2oqEqjbPPintJQTSL8TYDEWdawcBn8F0Fsl3Y1Z+CicjHNrS80MqMEMxAR0AACLFrjL+nyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deanb\\OneDrive\\Desktop\\TacoBellProject\\tacoparser-DeanBoilek\\LoggingKata\\LoggingKata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deanb\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\Deanb\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Deanb\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Deanb\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Deanb\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Deanb\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Deanb\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
